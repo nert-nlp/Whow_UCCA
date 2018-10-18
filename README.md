@@ -24,7 +24,7 @@ Filenames follow the pattern `whow_<DOCUMENT>_<PASSAGE>_<XXXX>.xml`. So the file
 Multiple annotations per passage
 --------------------------------
 
-In order to compute inter-annotator agreement (IAA), one randomly selected passage per document has been annotated by two additional annotators. In the file naming schema described above, <XXXX> (one out of {orig, iaa1, iaa2}) indicates whether the annotation of this passage was done by the annotator originally assigned to it (primary annotator), or one of the secondary annotators.
+In order to compute inter-annotator agreement (IAA), one randomly selected passage per document has been annotated by two additional annotators. In the file naming schema described above, `<XXXX>` (one out of {orig, iaa1, iaa2}) indicates whether the annotation of this passage was done by the annotator originally assigned to it (primary annotator), or one of the secondary annotators.
 
 ---
 
