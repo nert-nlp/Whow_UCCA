@@ -3196,10 +3196,10 @@
     </node>
     <node ID="1.255" type="FN">
       <attributes />
-      <edge toID="1.256" type="A">
+      <edge toID="1.256" type="S">
         <attributes />
       </edge>
-      <edge toID="1.256" type="S">
+      <edge toID="1.256" type="A">
         <attributes remote="True" />
       </edge>
       <edge toID="1.257" type="C">
@@ -3565,10 +3565,10 @@
       <edge toID="1.303" type="R">
         <attributes />
       </edge>
-      <edge toID="1.304" type="S">
+      <edge toID="1.304" type="A">
         <attributes />
       </edge>
-      <edge toID="1.304" type="A">
+      <edge toID="1.304" type="S">
         <attributes remote="True" />
       </edge>
       <edge toID="1.305" type="C">
@@ -3820,10 +3820,10 @@
       <edge toID="1.334" type="A">
         <attributes />
       </edge>
-      <edge toID="1.337" type="R">
+      <edge toID="1.337" type="A">
         <attributes />
       </edge>
-      <edge toID="1.337" type="A">
+      <edge toID="1.337" type="R">
         <attributes remote="True" />
       </edge>
     </node>
@@ -3967,10 +3967,10 @@
       <edge toID="1.350" type="P">
         <attributes />
       </edge>
-      <edge toID="1.351" type="A">
+      <edge toID="1.351" type="S">
         <attributes />
       </edge>
-      <edge toID="1.351" type="S">
+      <edge toID="1.351" type="A">
         <attributes remote="True" />
       </edge>
       <edge toID="1.352" type="A">
@@ -4312,10 +4312,10 @@
     </node>
     <node ID="1.392" type="FN">
       <attributes />
-      <edge toID="1.393" type="S">
+      <edge toID="1.393" type="A">
         <attributes />
       </edge>
-      <edge toID="1.393" type="A">
+      <edge toID="1.393" type="S">
         <attributes remote="True" />
       </edge>
       <edge toID="1.394" type="C">

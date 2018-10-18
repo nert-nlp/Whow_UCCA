@@ -2797,10 +2797,10 @@
     </node>
     <node ID="1.245" type="FN">
       <attributes />
-      <edge toID="1.246" type="A">
+      <edge toID="1.246" type="S">
         <attributes />
       </edge>
-      <edge toID="1.246" type="S">
+      <edge toID="1.246" type="A">
         <attributes remote="True" />
       </edge>
       <edge toID="1.247" type="A">
@@ -3322,10 +3322,10 @@
     </node>
     <node ID="1.310" type="FN">
       <attributes />
-      <edge toID="1.311" type="S">
+      <edge toID="1.311" type="A">
         <attributes />
       </edge>
-      <edge toID="1.311" type="A">
+      <edge toID="1.311" type="S">
         <attributes remote="True" />
       </edge>
       <edge toID="1.312" type="A">
