@@ -15,4 +15,3 @@ Make a dinging noise at each floor .
 Every time the elevator reaches a new floor , say “ ding ! ” very loudly .
 You can even sing the word “ ding ” on each floor like notes in a scale , getting higher as you reach each new floor . [ 2 ]
 You can make other noises if you prefer , such as a bird cawing or an explosion sound every time a button is pushed .
-

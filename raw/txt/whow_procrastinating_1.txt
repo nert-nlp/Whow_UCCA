@@ -14,4 +14,3 @@ If necessary , set time-frames for your items to be done by .
 For example , list “ take the dog for a walk by 12:30 ” rather than simply “ walk the dog . ”
 Re-evaluate your list halfway through your day to rank your items based on highest priority .
 Then , tackle the most important ones before looking back at the smaller things to do .
-
