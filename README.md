@@ -1,7 +1,7 @@
 Whow_UCCA
 =========
 
-Whow_UCCA is a corpus of English [WikiHow](https://wikihow.com) instructional guides semantically annotated with [Universal Conceptual Cognitive Annotation (UCCA)](http://www.cs.huji.ac.il/~oabend/ucca.html). It is comprised of 12 documents about varying topics, which also have been annotated with an array of linguistic (POS, syntax, discourse structure and more) and document-structure information as part of the [GUM](https://corpling.uis.georgetown.edu/gum/) project ([github](https://github.com/amir-zeldes/gum)).
+Whow_UCCA is a corpus of English [WikiHow](https://wikihow.com) instructional guides semantically annotated with [Universal Conceptual Cognitive Annotation (UCCA)](http://www.cs.huji.ac.il/~oabend/ucca.html). It is comprised of 11 documents about varying topics, which also have been annotated with an array of linguistic (POS, syntax, discourse structure and more) and document-structure information as part of the [GUM](https://corpling.uis.georgetown.edu/gum/) project ([github](https://github.com/amir-zeldes/gum)).
 
 The annotations were carried out by the students and instructor of the course Advanced Semantic Representations (LING/COSC-672) at Georgetown University in the Fall semester 2018.
 
@@ -17,7 +17,7 @@ Files and directories
 Documents and passages
 ----------------------
 
-The corpus contains 12 documents with token counts 656-1160. For comparability and to facilitate annotation, we split each document into 2-4 passages ranging between 104 and 355 tokens each. At least 2 passages / 607 tokens of each document have been annotated with UCCA by at least one annotator.
+The corpus contains 11 documents with token counts 656-1160. For comparability and to facilitate annotation, we split each document into 2-4 passages ranging between 104 and 355 tokens each. At least 2 passages / 607 tokens of each document have been annotated with UCCA by at least one annotator.
 Files are named after the schema 
 
 `whow_<DOCUMENT>_<PASSAGE>_<XXXX>.xml`.
