@@ -1,7 +1,7 @@
 Whow_UCCA
 =========
 
-Whow_UCCA is a corpus of English [WikiHow](https://wikihow.com) instructional guides semantically annotated with [Universal Conceptual Cognitive Annotation (UCCA)](http://www.cs.huji.ac.il/~oabend/ucca.html). It is comprised of 12 documents about varying topics, which were previously annotated with an array of linguistic (POS, syntax, discourse structure and more) and document-structure information as part of the [GUM](https://corpling.uis.georgetown.edu/gum/) project ([github](https://github.com/amir-zeldes/gum)).
+Whow_UCCA is a corpus of English [WikiHow](https://wikihow.com) instructional guides semantically annotated with [Universal Conceptual Cognitive Annotation (UCCA)](http://www.cs.huji.ac.il/~oabend/ucca.html). It is comprised of 11 documents about varying topics, which were previously annotated with an array of linguistic (POS, syntax, discourse structure and more) and document-structure information as part of the [GUM](https://corpling.uis.georgetown.edu/gum/) project ([github](https://github.com/amir-zeldes/gum)).
 
 The UCCA annotations were carried out by the students and instructor of the [Advanced Semantic Representation](http://people.cs.georgetown.edu/cosc672/f18/) course at Georgetown University in the Fall semester 2018.
 
@@ -17,7 +17,7 @@ Files and directories
 Documents and passages
 ----------------------
 
-The corpus contains 12 documents with token counts ranging from 656 to 1160. For comparability and to facilitate annotation, we split each document into 2-4 passages ranging between 104 and 355 tokens each. At least 2 passages / 607 tokens of each document have been annotated with UCCA by at least one annotator.
+The corpus contains 11 documents with token counts ranging from 656 to 1160. For comparability and to facilitate annotation, we split each document into 2-4 passages ranging between 104 and 355 tokens each. At least 2 passages / 607 tokens of each document have been annotated with UCCA by at least one annotator.
 
 Filenames follow the pattern `whow_<DOCUMENT>_<PASSAGE>_<XXXX>.xml`. So the file `whow_ballet_2_orig.xml`, for instance, contains the annotation for the 2nd passage of document "whow_ballet".
 
