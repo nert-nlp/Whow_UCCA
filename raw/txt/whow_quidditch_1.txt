@@ -19,4 +19,3 @@ Beaters try to peg players with their bludger .
 If a player is pegged they have to stop what they 're doing and pay a penalty ; i.e. ( drop the quaffle in the case of a chaser ) and run back to and touch their goal post or alternatively sit down for 10 seconds .
 Keepers guard the goal posts at each end and attempt to block chasers ' attempts at scoring .
 If Keeper is close to their hoops they are safe from being hit by bludgers .
-
